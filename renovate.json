@@ -4,5 +4,6 @@
     "android/**",
     "ios/**",
     "macos/**"
-  ]
+  ],
+  "rangeStrategy": "bump"
 }
