@@ -5,7 +5,7 @@ description = ""
 authors = []
 
 [tool.poetry.dependencies]
-python = "3.10.11"
+python = "3.11.4"
 requests = "^2.27.0"
 
 
