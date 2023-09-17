@@ -75,5 +75,5 @@ socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 
 [metadata]
 lock-version = "2.0"
-python-versions = "3.10.11"
-content-hash = "2568dda77d0d14576bd662886f4f83cdb8be242bd18212bcd024cb64dc5fe469"
+python-versions = "3.11.5"
+content-hash = "da8edb980881f44d890b27393a3d5cc69d28ecb962122dfcc9d30945ea2bab82"
